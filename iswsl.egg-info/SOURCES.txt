@@ -1,0 +1,8 @@
+README.md
+setup.py
+iswsl/__init__.py
+iswsl/iswsl.py
+iswsl.egg-info/PKG-INFO
+iswsl.egg-info/SOURCES.txt
+iswsl.egg-info/dependency_links.txt
+iswsl.egg-info/top_level.txt

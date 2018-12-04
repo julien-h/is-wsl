@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: iswsl
+Version: 1.0.1
+Summary: Python utility to check whether the current script runs inside Windows' WSL
+Home-page: https://github.com/julien-h/is-wsl
+Author: Julien Harbulot
+Author-email: julien.harbulot@epfl.ch
+License: MIT
+Description: Python utility to check whether the current script runs inside Windows' WSL.
+        
+        Here's how to use it:
+        
+        ```python
+        from iswsl import is_wsl
+        
+        if is_wsl():
+            print('Running inside WSL')
+        else:
+            print('Running outside WSL')
+        
+        ```
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
